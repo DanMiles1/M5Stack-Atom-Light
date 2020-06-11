@@ -4,4 +4,4 @@ The [M5Stack Atom Matrix](https://m5stack.com/collections/m5-atom/products/atom-
 
 The form factor and LED Matrix make creating an IoT Light :bulb: a great project to start out.
 
-This code is adapted from the original source for [M5Stack Core on Hackster.io](https://www.hackster.io/lukasmaximus89/m5stack-micropython-simple-web-server-20a4c4) for use with M5Stack ATOM Matrix.
+This code is adapted from the original source for [M5Stack Core on Hackster.io](https://www.hackster.io/lukasmaximus89/m5stack-micropython-simple-web-server-20a4c4) for use with M5Stack Atom Matrix.
