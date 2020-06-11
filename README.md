@@ -1,4 +1,4 @@
-#:bulb: M5Stack Atom Matrix IoT Light
+# :bulb: M5Stack Atom Matrix IoT Light
 
 Adapted from:
 
